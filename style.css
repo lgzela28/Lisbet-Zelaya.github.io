@@ -1,6 +1,6 @@
 /* Global Styles */
 body {
-    font-family: Arial, sans-serif;
+    font-family: Luminari, fantasy;
     line-height: 1.6;
     margin: 0;
     padding: 0;
@@ -73,13 +73,13 @@ main section {
     height: 150px;
     border-radius: 50%;
     margin: 0 auto;
-    border: 3px solid #0078d7;
+    border: 3px solid #f7d3e9;
 }
 
 /* Section Titles */
 main section h2 {
     font-size: 1.8rem;
-    color: #0078d7;
+    color: #ffeafd;
     margin-bottom: 0.5rem;
 }
 
@@ -94,7 +94,7 @@ main section h2 {
 }
 
 .projects a {
-    color: #0078d7;
+    color: #fac6fc;
     text-decoration: none;
 }
 
